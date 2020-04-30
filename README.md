@@ -1,4 +1,4 @@
-# This is my Twitter scraping program I made for the final project in Python.
+# This is my Twitter scraping program I made for my final project in Python programming.
 
 I am new to GitHub and I am trying to exlude files from committing, but the main files ares:
 
