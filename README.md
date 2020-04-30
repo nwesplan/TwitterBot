@@ -3,12 +3,16 @@
 I am new to GitHub and I am trying to exlude files from committing, but the main files ares:
 
 Database.py,
+
 Tweets_To_Database_Driver.py,
+
 Tweets_To_Database.py,
+
 Driver_GUI.py, 
+
 GUI_UI.py
 
-GUI_UI.py is the auto-generated code from Qt5 Designer.
+# GUI_UI.py is the auto-generated code from Qt5 Designer.
 Driver_GUI.py is the main front end program.
 
 Database.py handles all the database functionality on the back end.
