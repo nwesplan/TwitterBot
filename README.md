@@ -8,9 +8,9 @@ Tweets_To_Database.py,
 Driver_GUI.py, 
 GUI_UI.py
 
-GUI_UI.py is the auto-generated code from Qt5 Designer
-Driver_GUI.py is the main front end program
+GUI_UI.py is the auto-generated code from Qt5 Designer.
+Driver_GUI.py is the main front end program.
 
-Database.py handles all the database functionality on the back end
-Tweets_To_Database.py is the subclass that is called when grabbing live streaming tweets
+Database.py handles all the database functionality on the back end.
+Tweets_To_Database.py is the subclass that is called when grabbing live streaming tweets.
 Tweets_To_Database_Driver.py is the main program that controls the insertion of tweets into the database.
