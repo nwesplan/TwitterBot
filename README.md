@@ -14,7 +14,7 @@ GUI_UI.py
 
 GUI_UI.py is the auto-generated code from Qt5 Designer.
 
-#Driver_GUI.py
+# Driver_GUI.py
 is the main front end program.
 
 Database.py handles all the database functionality on the back end.
